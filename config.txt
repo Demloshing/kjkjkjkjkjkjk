@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token=NTEyNjM0NTM0Mzk5OTY3MjQz.Ds8T1A.f3wbHxAH8_HijgYdnlqFCE0Ghd8
+owner=459300517999411218 
+prefix=z
+game=Listening To علوا خؤي قمد
+stayinchannel=true
+songinstatus=true
